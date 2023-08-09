@@ -1,0 +1,13 @@
+.widget .latest-blog-posts-list {
+  margin: 0;
+  list-style: none;
+}
+.widget .latest-blog-posts-list li {
+  margin: 0 0 10px 0;
+  padding: 0 0 10px 0;
+  border-bottom: dotted 1px #CCC;
+  background: none;
+  word-wrap: break-word;
+  line-height: 1.3em;
+  list-style: none;
+}
